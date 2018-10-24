@@ -24,7 +24,7 @@ are that:
 
 -  The language is simple and easy to learn.
 -  Most code can be written and changed quickly and without hassle.
--  Less code written means less errors & mistakes to fix.
+-  Less code written means less errors and mistakes to fix.
 -  Easier to read the code (less clutter).
 -  No compilation is required to test.
 -  Runtime is tiny.
